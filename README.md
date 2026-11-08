@@ -19,6 +19,7 @@
 - [5주차](./AppPro/Week05.md)
 - [6주차](./AppPro/Week06.md)
 - [7주차](./AppPro/Week07.md)
+- [9주차 · 개인 프로젝트 주제 선정과 분석](./AppPro/Week09.md)
 - [중간고사 내용 정리](./AppPro/Midterm_Review.md)
 
 ## JAVA프로그래밍응용
@@ -27,6 +28,7 @@
 - [3주차](./JAVA/Week03.md)
 - [4주차](./JAVA/Week04.md)
 - [5주차](./JAVA/Week05.md)
+- [9주차 · 자바의 이벤트 처리](./JAVA/Week09.md)
 - [중간고사 내용 정리](./JAVA/Midterm_Review.md)
 
 ## 웹자바프로그래밍입문
@@ -39,6 +41,7 @@
 - [7장 · 파일 업로드](./WebJava/Chapter07.md)
 - [8장 · 쿠키·세션·로그인](./WebJava/Chapter08.md)
 - [9장 · 게시판](./WebJava/Chapter09.md)
+- [10장 · DAO와 DTO](./WebJava/Chapter10.md)
 - [중간고사 내용 정리](./WebJava/Midterm_Review.md)
 
 ## Python프로그래밍
