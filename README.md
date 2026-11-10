@@ -28,6 +28,7 @@
 - [3주차](./JAVA/Week03.md)
 - [4주차](./JAVA/Week04.md)
 - [5주차](./JAVA/Week05.md)
+- [6주차 · GUI 프로그래밍 기초](./JAVA/Week06.md)
 - [9주차 · 자바의 이벤트 처리](./JAVA/Week09.md)
 - [중간고사 내용 정리](./JAVA/Midterm_Review.md)
 
