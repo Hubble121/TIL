@@ -12,6 +12,7 @@
 ---
 
 ## 앱프로그래밍기초
+- [스마트 기기 정보 통합 및 비교 앱 · PRD](./AppPro/README.md)
 - [1주차](./AppPro/Week01.md)
 - [2주차](./AppPro/Week02.md)
 - [3주차](./AppPro/Week03.md)
