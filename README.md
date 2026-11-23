@@ -34,6 +34,8 @@
 - [5주차](./JAVA/Week05.md)
 - [6주차 · GUI 프로그래밍 기초](./JAVA/Week06.md)
 - [9주차 · 자바의 이벤트 처리](./JAVA/Week09.md)
+- [10주차 · 키보드 이벤트와 Swing 컴포넌트 활용](./JAVA/Week10.md)
+- [11주차 · 자바 스레드 기초와 동기화](./JAVA/Week11.md)
 - [중간고사 내용 정리](./JAVA/Midterm_Review.md)
 
 ## 웹자바프로그래밍입문
