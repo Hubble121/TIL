@@ -21,6 +21,9 @@
 - [6주차](./AppPro/Week06.md)
 - [7주차](./AppPro/Week07.md)
 - [9주차 · 개인 프로젝트 주제 선정과 분석](./AppPro/Week09.md)
+- [10주차 · PRD 작성과 개인 앱 첫 화면](./AppPro/Week10.md)
+- [11주차 · 상태·데이터 컨텍스트](./AppPro/Week11.md)
+- [12주차 · 개발 규칙·자동화와 Antigravity](./AppPro/Week12.md)
 - [중간고사 내용 정리](./AppPro/Midterm_Review.md)
 
 ## JAVA프로그래밍응용
